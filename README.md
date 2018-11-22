@@ -1,7 +1,6 @@
-# Proyecto-Final
+# Tarea-5-
+Este es el Trabajo # 5 de Lenguajes de Programacion,
+Realizado por:
 
-Este es el Proyecto Final Lenguaje Programacion
-
--------Diego Mauricio Zapata-------------------
-
---------Julian Uribe------------------------------
+Julian Uribe -------
+Diego Zapata
